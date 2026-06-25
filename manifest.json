@@ -1,0 +1,9 @@
+{
+  "name": "Bozkurt Fleet OS V2",
+  "short_name": "BozkurtFleetOS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": []
+}
